@@ -1,20 +1,21 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 /* Styles for the body */
 
 body {
 	font-family: 'Quicksand', sans-serif;
-	color: #C43302;
-	background-color: #B7BF99;
+	color: #C35A50;
+	background-color: #F2A03D;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #EFC86B;
+    background-color: #A2E4F7;
 }
 
 .resume-main {
@@ -22,7 +23,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #EDAA25;
+	background-color: #ECA899;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +37,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #010221;
+	color: #EE7623;
 }
 
 .biography-details li, .skill-list li {
